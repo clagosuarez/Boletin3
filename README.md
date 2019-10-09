@@ -2,6 +2,8 @@
 ## Subtitulo
 **negrita**
 
---negrita--
+negrita
 
-''' codigo '''
+```
+codigo
+```
